@@ -1,0 +1,9 @@
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\bin\Debug\WebinarHelper.exe.config
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\bin\Debug\WebinarHelper.exe
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\bin\Debug\WebinarHelper.pdb
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\obj\Debug\WebinarHelper.csprojAssemblyReference.cache
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\obj\Debug\WebinarHelper.Form1.resources
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\obj\Debug\WebinarHelper.Properties.Resources.resources
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\obj\Debug\WebinarHelper.csproj.GenerateResource.cache
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\obj\Debug\WebinarHelper.exe
+C:\Users\kexinxu\Documents\GitHub\SmartWork\Smart-Work-Robot\WebinarHelper\WebinarHelper\obj\Debug\WebinarHelper.pdb
